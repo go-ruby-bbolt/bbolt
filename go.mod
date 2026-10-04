@@ -1,6 +1,6 @@
 module github.com/go-ruby-bbolt/bbolt
 
-go 1.26.4
+go 1.27.1
 
 require go.etcd.io/bbolt v1.5.0
 
